@@ -13,6 +13,7 @@ Specification related to the ikea bike folkvanlig 2
     * [Parameter Setting](#parameter-setting)
       * [Basic menu](#basic-menu)
       * [Advanced menu](#advanced-menu)
+  * [Miscellaneous](#miscellaneous)
   
 ## General information
 
@@ -111,3 +112,9 @@ When system turn on, double press POWER button (press interval <0.3 second) can 
 | CYC | Battery cycle times | Shows the cycle value. Unit: times | 
 | PCH | The current charging interval | shows current charging interval value. Unit: hr. | 
 | bCH | Maximum charge time interval | hows the maximum charge time interval value. Unit: hr. |
+
+
+#### Miscellaneous
+
+[https://happyride.se/forum/read.php/1/3085047/3356627](https://happyride.se/forum/read.php/1/3085047/3356627)
+[https://happyride.se/forum/read.php/1/3401025](https://happyride.se/forum/read.php/1/3401025)
