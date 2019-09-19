@@ -1,16 +1,16 @@
 # folkvanlig
 Specification related to the ikea bike folkvanlig 2
 
-  * (General information)[general-information]
-  * (The LCD Display)[the-lcd-display]
-    * (Starting)[starting]
-    * (Assist level selecting)[assist-level-selecting]
-    * (Speed mode switch and Mileage mode switch)[speed-mode-switch-and-mileage-mode-switch]
-    * (Walk Assistance)[walk-assistance]
-    * (Data Reset)[data-reset]
-    * (Parameter Setting)[parameter-setting]
-      * (Basic menu)[basic-menu]
-      * (Advanced menu)[advanced-menu]
+  * [General information](#general-information)
+  * [The LCD Display](#the-lcd-display)
+    * [Starting](#starting)
+    * [Assist level selecting](#assist-level-selecting)
+    * [Speed mode switch and Mileage mode switch](#speed-mode-switch-and-mileage-mode-switch)
+    * [Walk Assistance](#walk-assistance)
+    * [Data Reset](#data-reset)
+    * [Parameter Setting](#parameter-setting)
+      * [Basic menu](#basic-menu)
+      * [Advanced menu](#advanced-menu)
   
 ## General information
 
@@ -79,7 +79,7 @@ When system turn on, double press POWER button (press interval <0.3 second) can 
 
 
 | Abbreviation displayed | meaning | choice | default value
-| --- | --- | ---
+| --- | --- | --- | ---
 | S7 | Kilometer/Mile |  km/h / MPH (Km / Mile) | km
 | bL1 | Backlight Brightness | 1~5 to change the brightness of the backlight.1-darkest, 5-brightest. | ?
 | OFF | Auto off time | 1 to 9, the number represent delay time (minutes) before display shutdownautomatically. | 5
