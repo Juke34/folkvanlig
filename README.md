@@ -116,5 +116,5 @@ When system turn on, double press POWER button (press interval <0.3 second) can 
 
 #### Miscellaneous
 
-[https://happyride.se/forum/read.php/1/3085047/3356627](https://happyride.se/forum/read.php/1/3085047/3356627)
+[https://happyride.se/forum/read.php/1/3085047/3356627](https://happyride.se/forum/read.php/1/3085047/3356627)  
 [https://happyride.se/forum/read.php/1/3401025](https://happyride.se/forum/read.php/1/3401025)
