@@ -1,7 +1,6 @@
 # folkvanlig
 Specification related to the ikea bike folkvanlig 2
 
-
   * (General information)[general-information]
   * (The LCD Display)[the-lcd-display]
     * (Starting)[starting]
@@ -49,7 +48,8 @@ Ikea price for the battery is 1 695 sek in Sweden
 
 ## The LCD Display
 
-It is APT 800S
+It is APT 800S.
+Here information retrieved from [this page](http://webcache.googleusercontent.com/search?q=cache:TCjj4_giLpcJ:www.aptdevelop.com/Public/Upload/57689dbfa8e43.pdf+&cd=1&hl=fr&ct=clnk&gl=se&client=safari)
 
 ### Starting
 
@@ -90,7 +90,7 @@ When system turn on, double press POWER button (press interval <0.3 second) can 
 #### Advanced settings
 
 | Abbreviation displayed | meaning | choice | default value
-| --- | --- | ---
+| --- | --- | --- | ---
 | SPL | Speed limit | the value can be set from 10 to 41km/h. The maximum speed is restricted by the motor and controller, probably couldn’t reach thesetting value. | 25km/h
 | HAL | Magnetic Pole numbers of speed sensor | 1-? |
 | ASd | Direction of speed sensor | 0/1, 0 indicates forward, 1 indicates backward. | 0
