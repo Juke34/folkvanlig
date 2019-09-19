@@ -31,9 +31,7 @@ Ikea price for the bike is 6 595 sek in Sweden
 | Brakes | Disc - Tektro Aries, discs Tektro 6F
 | Saddle | Selle Royal Free Way (with taillight)
 | Front fork | no lockout
-
 | Pedals | foldable in plastic
-
 
 ### Battery and Engine
 
@@ -113,6 +111,3 @@ When system turn on, double press POWER button (press interval <0.3 second) can 
 | CYC | Battery cycle times | Shows the cycle value. Unit: times | 
 | PCH | The current charging interval | shows current charging interval value. Unit: hr. | 
 | bCH | Maximum charge time interval | hows the maximum charge time interval value. Unit: hr. |
-
-
-
