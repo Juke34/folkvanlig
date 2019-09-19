@@ -2,6 +2,8 @@
 Specification related to the ikea bike folkvanlig 2
 
   * [General information](#general-information)
+    * [Bike](#bike)
+    * [Battery and Engine](battery-and-engine)
   * [The LCD Display](#the-lcd-display)
     * [Starting](#starting)
     * [Assist level selecting](#assist-level-selecting)
